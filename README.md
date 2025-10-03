@@ -136,7 +136,7 @@ Run the script using the following command:
 ```Bash
 node index.js
 ```
-Expected Output
+# **Expected Output**
 If successful, the script will first check your balance (and fund if needed) and then print the permanent gateway URL for your file:
 ```Bash
 Attempting to fund Irys account with 1e-11 base-eth...
@@ -149,10 +149,10 @@ Attempting to upload file: irys.png
 Permanent URL: https://gateway.irys.xyz/ATaBmyBUf7z7atmYqdpnudHMqUD7NYEgpDfFjMpJzL8q
 -----------------------------------------
 ```
-**HOW TO VIEW THE STORED IMAGE:**
-once the script runs succesfully, you'ii be given a permanent url;
+# **HOW TO VIEW THE STORED IMAGE:**
+ once the script runs succesfully, you'ii be given a permanent url;
 1. open the link in any browser , you will see raw file
 2. save the raw file with .png format
 3. once done, you will be able to view the image
 
-**THANK YOU, IF YOU HAVE ANY QUESTIONS... DON'T HESITATE TO SHOOT A DM (@LAE_GEND)**
+# **THANK YOU, IF YOU HAVE ANY QUESTIONS... DON'T HESITATE TO SHOOT A DM (@LAE_GEND)**
